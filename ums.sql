@@ -1,3 +1,5 @@
+CREATE DATABASE ums;
+USE ums;
 CREATE TABLE `user` (
   `id` int(11) NOT NULL,
   `first_name` varchar(50) NOT NULL,
